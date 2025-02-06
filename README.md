@@ -1,2 +1,1 @@
-# AppliedStatisticsProject1
-Hospitalization Stays
+# Applied Statistics Project 1: Hospitalization Stays
